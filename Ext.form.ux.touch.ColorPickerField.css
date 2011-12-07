@@ -1,0 +1,11 @@
+.x-form-color-picker-field {
+	background-color: #fff;
+	width: 100%;
+	min-height: 2.5em;
+	padding: .25em .4em;
+}
+
+.x-form-color-picker-field-last-fieldset {
+	-webkit-border-bottom-right-radius: .4em;
+	border-bottom-right-radius: .4em
+}
